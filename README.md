@@ -13,3 +13,9 @@ Initial State with Mock Data: Initializes the board with sample data (mock data)
 React
 
 react-beautiful-dnd
+
+## Screenshots:
+![image](https://github.com/hectoraguayo/Kanban-React/assets/123340272/0d217c69-aada-4ab6-ad76-7cd49e00b1a4)
+https://github.com/hectoraguayo/Kanban-React/assets/123340272/c3ad6494-62d1-42a0-8c1e-80ae3ae380c7
+
+

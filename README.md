@@ -15,7 +15,8 @@ React
 react-beautiful-dnd
 
 ## Screenshots:
-![image](https://github.com/hectoraguayo/Kanban-React/assets/123340272/0d217c69-aada-4ab6-ad76-7cd49e00b1a4)
+![image](https://github.com/hectoraguayo/Kanban-React/assets/123340272/2f472566-9679-4f3f-a8b0-db47d6cf2f07)
+
 ## Video:
 https://github.com/hectoraguayo/Kanban-React/assets/123340272/c3ad6494-62d1-42a0-8c1e-80ae3ae380c7
 
